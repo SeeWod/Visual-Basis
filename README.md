@@ -1,2 +1,7 @@
-# Visual-Basis
-Visial Basis —— GUI Terminal &amp; Frontend Base
+# Visual-Basis —— GUI Terminal &amp; Frontend Base
+Visial Basis，你可以简称VB基座，它是一个为构建大前端而生的底层基座。
+目前，大前端的开发适配方向主要集中在对不同OS的GUI API，但是由于各个OS提供的GUI系统有众多差异，难以完全实现大前端。本项目的目的就是在这个问题的基础上，通过开发一套各个OS可公用的GUI基座，然后针对不同设备，可以在这个基座上搭建自己的框架包，不同开发者选取不同的框架开发相应的中断，但是保持大语言环境不变，从而减少学习成本，最大可能的实现 大前端。
+
+我是项目的发起人，你们可以称呼我 seewod/ikik。这是我的邮箱：dongdanyan@outlook.com
+
+目前项目正在规划阶段，欢迎各位的加入，让我们一起实现大前端！
